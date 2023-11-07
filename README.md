@@ -1,16 +1,12 @@
 ### Hi there 👋
 
 
-**2112529/2112529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nick Leeson. Nice to meet you!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying on Nankai University
+- 🌱 I’m currently learning Computer Science and Technology
+- 📫 2112529@mail.nankai.edu.cn
+- 😄 Interests:Coding Learning and Uping
+- ⚡ To make each day count!
 
-- 🔭 I’m currently working on Nankai University
-- 🌱 I’m currently learning CV
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+-Coding Stack----nothing but everything
